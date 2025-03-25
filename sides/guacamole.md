@@ -4,6 +4,7 @@
 ## Ingredients
 
 - 2 avocados
+- 1 tomato
 - 1 chili
 - 1 lime
 - 1 tsp salt
@@ -14,6 +15,7 @@
 ## Instructions
 
 - chop avocados
+- dice tomato
 - chop onion
 - chop chili
 - squeeze lime
